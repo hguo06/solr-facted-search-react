@@ -1,0 +1,105 @@
+[
+{
+        "meta_image": [
+          "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&itemID=446111&swatchID=1246&recipeName=pdlg488x600"
+        ],
+        "meta_seller": [
+          "Ann Taylor"
+        ],
+        "meta_title": [
+          "Abstract Leaf Square Scarf "
+        ],
+        "meta_price": [
+          39.99
+        ],
+        "title": "Abstract Leaf Square Scarf | Ann Taylor",
+        "url": "https://www.anntaylor.com/abstract-leaf-square-scarf/446111",
+        "meta_proddescription": [
+          "Irresistibly soft, top off the season with this modern abstract mix in rich autumnal hues. 50\" x 50\"."
+        ],
+        "meta_promo": [
+          "EXTRA 50% OFF! DISCOUNT APPLIED AT CHECKOUT."
+        ],
+        "meta_type": [
+          "product"
+        ],
+        "tstamp": "1970-01-01T00:00:00Z",
+        "meta_sizecode": [
+          "ONE SIZE"
+        ],
+        "meta_colorcode": [
+          "rgb(43,35,56);"
+        ],
+        "digest": "e1ccc5764eaea38de35ed264c9d7d9dc",
+        "meta_pricecurrency": [
+          "USD"
+        ],
+        "boost": 0,
+        "id": "com.anntaylor.www:https/abstract-leaf-square-scarf/446111",
+        "meta_url": [
+          "https://www.anntaylor.com/abstract-leaf-square-scarf/446111"
+        ],
+        "meta_colortext": [
+          "Navy Blue"
+        ],
+        "_version_": 1585555835590803500
+      },
+      {
+        "meta_image": [
+          "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&itemID=420316&swatchID=8115&recipeName=pdlg488x600"
+        ],
+        "meta_seller": [
+          "Ann Taylor"
+        ],
+        "meta_title": [
+          "Adalaide Suede Tassel Pumps "
+        ],
+        "meta_price": [
+          79.88
+        ],
+        "title": "Adalaide Suede Tassel Pumps | Ann Taylor",
+        "url": "https://www.anntaylor.com/adalaide-suede-tassel-pumps/420316",
+        "meta_proddescription": [
+          "Finished with refined tassels, our rich suede pumps exude fringe appeal that elevates any ensemble. Pointy toe. Tasseled tie closure. Padded footbed for complete comfort. Covered 3 1/2\" heel."
+        ],
+        "meta_promo": [
+          "Final Sale: may not be returned or exchanged  EXTRA 50% OFF! DISCOUNT APPLIED AT CHECKOUT."
+        ],
+        "meta_type": [
+          "product"
+        ],
+        "tstamp": "1970-01-01T00:00:00Z",
+        "meta_sizecode": [
+          "5",
+          "5 1/2",
+          "6",
+          "6 1/2",
+          "7",
+          "7 1/2",
+          "8",
+          "8 1/2",
+          "9",
+          "9 1/2",
+          "10",
+          "11"
+        ],
+        "meta_colorcode": [
+          "rgb(0,0,0);",
+          "rgb(81,32,36);"
+        ],
+        "digest": "2a76db058fa626e64fc8bac62166269a",
+        "meta_pricecurrency": [
+          "USD"
+        ],
+        "boost": 0,
+        "id": "com.anntaylor.www:https/adalaide-suede-tassel-pumps/420316",
+        "meta_url": [
+          "https://www.anntaylor.com/adalaide-suede-tassel-pumps/420316"
+        ],
+        "meta_colortext": [
+          "Black",
+          "Vino"
+        ],
+        "_version_": 1585555835592900600
+      }
+	  ]
